@@ -1,0 +1,1 @@
+cmd_/home/lee/jin/homework1/coby/0712/hello2.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-49-generic-pae/scripts/module-common.lds --build-id -o /home/lee/jin/homework1/coby/0712/hello2.ko /home/lee/jin/homework1/coby/0712/hello2.o /home/lee/jin/homework1/coby/0712/hello2.mod.o
